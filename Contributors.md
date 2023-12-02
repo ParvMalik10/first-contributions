@@ -35,6 +35,7 @@ Ayush Gaud
 - [PSK] (https://github.com/jamesbright)
 - [Vishal Biradar](https://github.com/vishalbrdr)
 - [Aditya]
+- [Toby] (https://github.com/tobiastdev)
 - [MarioCapodanno](https://github.com/MarioCapodanno)
 - [Derek Kim](https://github.com/derekhskim)
 Gabi Nelepcu
@@ -551,6 +552,7 @@ Brent L
 - [Ester](https://github.com/EsterBlassLev)
 - [Andrew Donnelly](https://github.com/Learningtotry)
 - [Janvi](https://github.com/janvi2502)
+- [Jayanth Kumar BS](https://github.com/Jayanth-BS)
 - [Kousic](https://github.com/Kousic05)
 - [IzsoJozsi](https://github.com/IzsoJozsi)
 - [Micah Howard](https://github.com/mikeboi08)
@@ -5087,8 +5089,10 @@ Gauresh Rathi
 - [se22m053](https://github.com/se22m053)
 - [Dongwook Chang](https://github.com/dongwook-chan)
 - [Achal Jhawar](https://github.com/achaljhawar)
+- [Milad Emami](https://github.com/milad-emami)
 - [PusPC](https://github.com/PusPC)
 - [fossgibson](https://github.com/fossgibson)
 - [gaoozi](https://github.com/gaoozi)
+- [vishalsekar11](https://github.com/vishalsekar11)
 - [WangChuDi](https://github.com/WangChuDi)
 
