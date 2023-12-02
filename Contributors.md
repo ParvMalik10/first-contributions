@@ -173,6 +173,8 @@ Gabi Nelepcu
 - [Sai Tejasri Yerramsetti](https://github.com/saitejasri1)
 - [Segun David Olasunkanmi](https://github.com/Segundavid-Dev)
 - [Sandy]
+- [Parv]
+- [Parv]
 - [Dancis]
 - [Kae Sluder](https://github.com/kaesluder)
 - [Daniel Jones](https://github.com/Danguy23)
