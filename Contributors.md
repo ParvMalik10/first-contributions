@@ -605,6 +605,7 @@ Brent L
 - [Artyom Romanov](https://github.com/art3xa)
 - [Artyom F](https://github.com/kextcache)
 - [Out Drax](https://github.com/OutDrax)
+- [Parv Malik])(https://github.com/ParvMalik10)
 - [Julien Lavrard](https://github.com/Julyse)
 - [Lasan Ranatunge](https://github.com/lasanseniya)
 - [meghaverma3110](https://github.com/meghaverma3110)
